@@ -1,0 +1,2 @@
+This is a test file for node fule system
+ i am writing to this file
